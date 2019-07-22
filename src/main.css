@@ -1,0 +1,8 @@
+.poemLlist {
+  list-style: none;
+}
+
+.note-list {
+  border: 1px solid black;
+  margin: 5px;
+}
